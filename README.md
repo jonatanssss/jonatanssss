@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Jonatan 👋
 
-<!--
-**jonatanssss/jonatanssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics Undergraduate passionate about Artificial Intelligence, Computational Physics, and Scientific Computing.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning
+* Computer Vision
+* Data Science
+* Computational Physics
+* Medical AI
+* Scientific Research
+
+## Featured Projects
+
+### Non-Invasive Hemoglobin Estimation
+
+Machine learning approach for non-invasive hemoglobin prediction using biomedical data.
+
+### Walls Structural Crack Detection
+
+Physics-informed deep learning pipeline for structural crack classification using a custom ResNet architecture and image morphology analysis.
+
+## Currently Learning
+
+* Advanced Machine Learning
+* Computational Modeling
+* Scientific Programming
+* AI for Healthcare Applications
+
+## Connect With Me
+
+* LinkedIn: [Your LinkedIn URL]
+* Email: [your-email@example.com](mailto:your-email@example.com)
