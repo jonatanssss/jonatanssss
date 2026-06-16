@@ -30,5 +30,5 @@ Physics-informed deep learning pipeline for structural crack classification usin
 
 ## Connect With Me
 
-* LinkedIn: [Your LinkedIn URL]
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* LinkedIn: https://www.linkedin.com/in/jonatan-pm/
+* Email: jonatan.pmanurung@gmail.com
